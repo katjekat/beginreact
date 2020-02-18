@@ -1,2 +1,0 @@
-# beginreact
-Begin app
